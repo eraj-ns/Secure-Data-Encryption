@@ -1,2 +1,2 @@
-streamlit
-cryptography
+streamlit==1.31.1
+cryptography==41.0.3
